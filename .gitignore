@@ -1,0 +1,6 @@
+# Backend
+kirana-backend/node_modules/
+kirana-backend/.env
+
+# Frontend
+kirana-frontend/node_modules/
